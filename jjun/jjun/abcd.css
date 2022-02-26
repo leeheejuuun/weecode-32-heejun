@@ -1,0 +1,22 @@
+a {
+  text-decoration: none;
+  font-size: 65px;
+  font-weight: 300;
+  color: black;
+  font-family: 'Monoton', cursive;
+}
+
+body {
+  background-image: url('https://cdn.pixabay.com/photo/2016/10/11/09/26/office-1730939_960_720.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Bungee Shade', cursive;
+  font-size: 110px;
+  height: 140px;
+}

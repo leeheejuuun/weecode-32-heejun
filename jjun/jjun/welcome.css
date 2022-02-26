@@ -1,0 +1,76 @@
+@import url('reset.css');
+@import url('abcd.css');
+@import url('aboutme.css');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Indie+Flower&family=Jost:ital@0;1&family=Mitr:wght@300&family=Monoton&family=Nanum+Pen+Script&family=Open+Sans:ital,wght@0,400;0,600;1,500&family=Pacifico&family=Quantico:ital@1&family=Shizuru&family=Vast+Shadow&display=swap');
+@import url('hobby.css');
+.wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 600px;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.click-item {
+  display: flex;
+  flex-direction: column;
+  gap: 150px;
+  flex: 1;
+  text-align: center;
+}
+
+.main-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 100px;
+  margin-top: 20px;
+  font-family: 'Shizuru', cursive;
+}
+/*
+.item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  margin: 50px;
+  padding: 20px;
+  width: 200px;
+  height: 60px;
+  border-radius: 10px;
+  background-color: #fff;
+}
+.item:after {
+  content: '';
+  position: absolute;
+  top: 21px;
+  left: -30px;
+  border-right: 30px solid #fff;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+}
+
+.itemm {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  margin: 50px;
+  padding: 20px;
+  width: 200px;
+  height: 60px;
+  border-radius: 10px;
+  background-color: #fff;
+}
+.itemm:after {
+  content: '';
+  position: absolute;
+  top: 21px;
+  right: -30px;
+  border-left: 30px solid #fff;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+}
+*/

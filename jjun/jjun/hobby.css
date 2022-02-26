@@ -1,0 +1,19 @@
+.like-wrap img {
+  width: 300px;
+  height: 300px;
+  border-radius: 70px;
+}
+
+.like-wrap {
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+  height: 600px;
+  align-items: center;
+}
+
+h2 {
+  font-size: 40px;
+  font-family: 'Quantico', sans-serif;
+  margin-top: 40px;
+}
